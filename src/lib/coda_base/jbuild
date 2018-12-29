@@ -13,7 +13,7 @@
       signature_lib
       test_util
       sha256_lib
-      digestif.ocaml
+      digestif_ocaml
       snark_bits
       currency
       snark_params

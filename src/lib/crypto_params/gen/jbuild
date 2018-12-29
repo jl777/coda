@@ -6,7 +6,7 @@
     ( async
       core
       crs
-      digestif.ocaml
+      digestif_ocaml
       snarky
       tuple_lib
       ppxlib

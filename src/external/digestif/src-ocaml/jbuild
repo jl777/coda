@@ -1,6 +1,6 @@
 (library
- ((name digestif.ocaml)
-  (public_name digestif.ocaml)
+ ((name digestif_ocaml)
+  (public_name digestif_ocaml)
   (wrapped false)
   (libraries (bigarray))
   (flags (:standard -no-keep-locs))))

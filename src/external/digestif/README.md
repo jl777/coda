@@ -18,7 +18,7 @@ Digestif uses a trick about linking and let the end-user to choose which
 implementation he wants to use. We provide 2 implementations:
 
  * C implementation with `digestif.c`
- * OCaml implementation with `digestif_ocaml`
+ * OCaml implementation with `digestif.ocaml`
  
 Both are well-tested. However, OCaml implementation is slower than the C
 implementation.

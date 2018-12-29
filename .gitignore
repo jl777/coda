@@ -6,3 +6,5 @@ result
 test.log
 build.log
 src/config.mlh
+
+src/lib/snarky/src/camlsnark_c/libsnark-caml/depends/libfqfft/libfqfft/profiling/logs/memory/03-03_03:44/memory.png
